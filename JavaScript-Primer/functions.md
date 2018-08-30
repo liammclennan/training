@@ -48,3 +48,5 @@ const arrayToObject = (a) => ({
     second: a[1];
 });
 ```
+
+> NOTE: an important property of arrow functions is that they take their value of `this` from the surrounding context. 
