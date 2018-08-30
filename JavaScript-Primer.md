@@ -14,6 +14,7 @@ Modules
 1. [var, let, const](JavaScript-Primer/var-let-const.md)
 1. [Functions](JavaScript-Primer/functions.md)
 1. [Destructuring Assignment](JavaScript-Primer/destructuring-assignment.md)
+1. [Spread Syntax](JavaScript-Primer/spread-syntax.md)
 
 Acknowledgements
 ---------------
