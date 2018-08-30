@@ -20,6 +20,10 @@ Expand an object or array in place to:
     //    lastName: 'Smith',
     //    age: 35
     // }
+* copy one array into another array
+    ```javascript
+    [ ...[1,2,3], 4, 5]
+    ```
 
 
 Read the [MDN documentation for Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
