@@ -1,2 +1,4 @@
-# training
+# Training
+
 Miscellaneous training material
+
