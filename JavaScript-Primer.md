@@ -15,6 +15,7 @@ Modules
 1. [Functions](JavaScript-Primer/functions.md)
 1. [Destructuring Assignment](JavaScript-Primer/destructuring-assignment.md)
 1. [Spread Syntax](JavaScript-Primer/spread-syntax.md)
+1. [Import & Export](Javascript-Primer/import-export.md)
 
 Acknowledgements
 ---------------
