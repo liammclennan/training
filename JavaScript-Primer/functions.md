@@ -24,7 +24,7 @@ Arrow Function Syntax
 A concise function syntax.
 
 ```javascript
-const isPositive = (i) => i >= 0;
+const isPositive = (i) => i > 0;
 ```
 
 Read the [MDN documentation for arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
@@ -35,7 +35,7 @@ Enclose in `{ }` and add a return statement.
 
 ```javascript
 const isPositive = (i) => {
-    const zeroOrMore = i >= 0;
+    const zeroOrMore = i > 0;
     return zeroOrMore;
 };
 ```
