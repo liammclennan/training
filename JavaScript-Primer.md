@@ -12,4 +12,10 @@ Modules
 ------
 
 1. [var, let, const](JavaScript-Primer/var-let-const.md)
+1. [Functions](JavaScript-Primer/functions.md)
+
+Acknowledgements
+---------------
+
+This tutorial relies extensively on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/). 
 
