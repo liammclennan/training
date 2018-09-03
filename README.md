@@ -7,3 +7,4 @@ Miscellaneous training material
 * [Sharepoint Framework](Sharepoint-Framework.md)
 * [Typescript](Typescript.md)
 
+https://bit.ly/2oC9PGZ
