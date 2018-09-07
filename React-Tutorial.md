@@ -13,3 +13,4 @@ Modules
 1. [Model view intent architecture](React-Tutorial/model-view-intent.md) (20 mins)
 1. [State Containers](React-Tutorial/state-containers.md) (60 mins)
 1. [Dev tools](React-Tutorial/dev-tools.md) (20 mins)
+1. [Testing](React-Tutorial/testing.md)

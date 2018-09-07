@@ -17,6 +17,7 @@ Modules
 1. [Spread Syntax](JavaScript-Primer/spread-syntax.md) (15 mins)
 1. [Import & Export](JavaScript-Primer/import-export.md) (25 mins)
 1. [Promise](JavaScript-Primer/promise.md) (30 mins)
+1. [Testing](JavaScript-Primer/testing.md)
 
 Acknowledgements
 ---------------
