@@ -33,4 +33,4 @@ To start (render) a React application we use the `ReactDOM.render` function.
 ReactDOM.render(<HelloWorld name="Ernesto" />, document.getElementById("app"));
 ```
 
-Exercise: [HelloWorld](https://codepen.io/liammclennan/pen/jvVqLY)
+Exercise: [HelloWorld](https://codepen.io/liammclennan/pen/jvVqLY?editors=0010)
