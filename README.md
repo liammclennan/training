@@ -7,3 +7,4 @@ Miscellaneous training material
 * [Sharepoint Framework](Sharepoint-Framework.md)
 * [Typescript](Typescript.md)
 
+https://is.gd/bce_workshop
